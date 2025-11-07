@@ -52,7 +52,7 @@ export default function Header() {
             </a>
           ))}
           <a
-            href="#join"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScP9LuFwiHEx806tv9zczjCIEzqO1Zjb-FjB4XWoa6BS1NNKQ/viewform"
             className="rounded-md bg-[#c15f3c] px-4 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#a04d2f] transition-colors"
           >
             Join Now
@@ -99,7 +99,7 @@ export default function Header() {
               </div>
               <div className="py-6">
                 <a
-                  href="#join"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLScP9LuFwiHEx806tv9zczjCIEzqO1Zjb-FjB4XWoa6BS1NNKQ/viewform"
                   className="block w-full rounded-md bg-[#c15f3c] px-4 py-2.5 text-center text-base font-semibold text-white shadow-sm hover:bg-[#a04d2f] transition-colors"
                 >
                   Join Now
